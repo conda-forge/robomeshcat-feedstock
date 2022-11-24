@@ -36,7 +36,7 @@ test:
 
 about:
   home: https://github.com/petrikvladimir/RoboMeshCat
-  summary: Set of utilities for visualizing robots in web-based visualized MeshCat.
+  summary: Set of utilities for visualizing robots in web-based visualizer MeshCat.
   license: BSD-2-Clause
   license_file: LICENSE
 
